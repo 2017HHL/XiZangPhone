@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardBackgroundColor="@android:color/white"
+    app:cardElevation="@dimen/dp_4"
+    app:cardPreventCornerOverlap="true"
+    app:cardUseCompatPadding="true"
+    app:contentPaddingTop="5dp"
+    app:contentPaddingBottom="5dp"
+    android:layout_height="wrap_content">
+    <TableLayout
+        android:stretchColumns="1,3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TableRow>
+            <TextView
+                style="@style/Common_TextView_Style_Bold"
+                android:text="编　号:"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textSize="@dimen/common_tv_size"/>
+            <TextView
+                android:id="@+id/tv_no"
+                style="@style/Common_TextView_Style"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="编  号:"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                style="@style/Common_TextView_Style_Bold"
+                android:text="货　主:"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textSize="@dimen/common_tv_size"/>
+            <TextView
+                android:id="@+id/tv_name"
+                style="@style/Common_TextView_Style"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="编  号:编  号:编  号:编  号:"/>
+            <TextView
+                style="@style/Common_TextView_Style_Bold"
+                android:text="联系电话:"
+                android:textStyle="bold"
+                android:textSize="@dimen/common_tv_size"/>
+            <TextView
+                android:id="@+id/tv_phone"
+                style="@style/Common_TextView_Style"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="编  号:"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                style="@style/Common_TextView_Style_Bold"
+                android:text="类　型:"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textSize="@dimen/common_tv_size"/>
+
+            <TextView
+                android:id="@+id/tv_type"
+                style="@style/Common_TextView_Style"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="编  号:"/>
+
+            <TextView
+                style="@style/Common_TextView_Style_Bold"
+                android:text="申报时间:"
+                android:textStyle="bold"
+                android:textSize="@dimen/common_tv_size"/>
+            <TextView
+                android:id="@+id/tv_time"
+                style="@style/Common_TextView_Style"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="编  号:"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                style="@style/Common_TextView_Style_Bold"
+                android:text="产品种类:"
+                android:textStyle="bold"
+                android:textSize="@dimen/common_tv_size"/>
+            <TextView
+                android:id="@+id/tv_anim_type"
+                style="@style/Common_TextView_Style"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="编  号:"/>
+            <TextView
+                style="@style/Common_TextView_Style_Bold"
+                android:text="数量单位:"
+                android:textStyle="bold"
+                android:textSize="@dimen/common_tv_size"/>
+            <TextView
+                android:id="@+id/tv_anim_number"
+                style="@style/Common_TextView_Style"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="数量单位:"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                style="@style/Common_TextView_Style_Bold"
+                android:text="申报人:"
+                android:textStyle="bold"
+                android:textSize="@dimen/common_tv_size"/>
+            <TextView
+                android:id="@+id/tv_apply_name"
+                style="@style/Common_TextView_Style"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text=""/>
+        </TableRow>
+    </TableLayout>
+</android.support.v7.widget.CardView>

@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        android:orientation="vertical">
+
+        <include layout="@layout/view_title" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="@dimen/common_padding_bottom"
+            android:paddingLeft="@dimen/common_padding_left"
+            android:paddingRight="@dimen/common_padding_right"
+            android:paddingTop="@dimen/common_padding_top"
+            android:scrollbars="none">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout style="@style/StyleLinear">
+
+                    <TextView
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="申报单编号:" />
+
+                    <EditText
+                        android:id="@+id/et_shenbaodan"
+                        style="@style/StyleEdit"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="number"
+                        android:maxLength="10" />
+
+                </LinearLayout>
+
+                <LinearLayout style="@style/StyleLinear">
+
+                    <TextView
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="货主:" />
+
+                    <EditText
+                        android:id="@+id/et_huozhu"
+                        style="@style/StyleEdit"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+
+                <LinearLayout style="@style/StyleLinear">
+
+                    <TextView
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="联系电话:" />
+
+                    <EditText
+                        android:id="@+id/et_lianxidianhua1"
+                        style="@style/StyleEdit"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="number" />
+
+                </LinearLayout>
+
+                <LinearLayout style="@style/StyleLinear">
+
+                    <TextView
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="动物种类:" />
+
+                    <Spinner
+                        android:id="@+id/sp_dongwu1"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <Spinner
+                        android:id="@+id/sp_dongwu2"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_weight="1"
+                        android:visibility="visible" />
+                    <Spinner
+                        android:id="@+id/sp_dongwu3"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_weight="1"
+                        android:visibility="visible" />
+
+                </LinearLayout>
+
+                <LinearLayout style="@style/StyleLinear">
+
+                    <TextView
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="数量及单位:" />
+                    <EditText
+                        android:id="@+id/et_shuliang"
+                        style="@style/StyleEdit"
+                        android:inputType="number"
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content" />
+                    <Spinner
+                        android:id="@+id/animal_danwei"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/StyleLinear">
+
+                    <TextView
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="用途:" />
+
+                    <Spinner
+                        android:id="@+id/sp_yongtu"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/StyleLinear">
+                    <TextView
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="申报日期:" />
+                    <Button
+                        android:id="@+id/bt_shijian1"
+                        android:layout_width="150dp"
+                        android:layout_height="30dp"
+                        android:background="@drawable/button_style"
+                        android:gravity="center"
+                        android:text="请选择时间"
+                        android:textSize="@dimen/common_text_size" />
+
+                </LinearLayout>
+                <LinearLayout style="@style/StyleLinear">
+                    <TextView
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="起运日期:" />
+                    <Button
+                        android:id="@+id/bt_shijian2"
+                        android:layout_width="150dp"
+                        android:layout_height="30dp"
+                        android:background="@drawable/button_style"
+                        android:gravity="center"
+                        android:text="请选择时间"
+                        android:textSize="@dimen/common_text_size" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/StyleLinear">
+
+                    <TextView
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="来源:" />
+
+                    <EditText
+                        android:id="@+id/et_laiyuan"
+                        style="@style/StyleEdit"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/StyleLinear">
+
+                    <TextView
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="启运地点:" />
+
+                    <Spinner
+                        android:id="@+id/sp_qiyun_didian1"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <Spinner
+                        android:id="@+id/sp_qiyun_didian2"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+                    <Spinner
+                        android:id="@+id/sp_qiyun_didian3"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+
+                </LinearLayout>
+
+                <LinearLayout style="@style/StyleLinear">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:text="乡(镇)"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/common_text_size" />
+
+                    <EditText
+                        android:id="@+id/et_qiyun_other1"
+                        style="@style/StyleEdittwo" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/StyleLinear">
+
+                    <TextView
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="到达地点:" />
+
+                    <Spinner
+                        android:id="@+id/daoda_didian1"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <Spinner
+                        android:id="@+id/daoda_didian2"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+                    <Spinner
+                        android:id="@+id/daoda_didian3"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                </LinearLayout>
+
+
+                <LinearLayout style="@style/StyleLinear">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:text="乡(镇)"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/common_text_size" />
+
+                    <EditText
+                        android:id="@+id/et_daoda_other1"
+                        style="@style/StyleEdittwo" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/StyleLinear">
+                    <TextView
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="申报处理结果:" />
+                    <RadioGroup
+                        android:id="@+id/rg_shouli"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+                        <RadioButton
+                            android:id="@+id/rb_shouli"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:checked="true"
+                            android:text="受理"
+                            android:textSize="@dimen/common_text_size" />
+
+                        <RadioButton
+                            android:id="@+id/rb_weishouli"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:focusable="false"
+                            android:text="未受理"
+                            android:textSize="@dimen/common_text_size" />
+                    </RadioGroup>
+
+                </LinearLayout>
+
+                <LinearLayout style="@style/StyleLinear">
+                    <TextView
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="受理地点:" />
+
+                    <EditText
+                        android:id="@+id/et_shoulididian"
+                        style="@style/StyleEdit"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+
+                <LinearLayout style="@style/StyleLinear">
+                    <TextView
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="理由:" />
+
+                    <EditText
+                        android:id="@+id/et_anyou"
+                        style="@style/StyleEdit"
+                         />
+                </LinearLayout>
+            <LinearLayout style="@style/StyleLinear">
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="检疫日期:" />
+                <Button
+                    android:id="@+id/bt_shijian3"
+                    android:layout_width="150dp"
+                    android:layout_height="30dp"
+                    android:background="@drawable/button_style"
+                    android:gravity="center"
+                    android:text="请选择时间"
+                    android:textSize="@dimen/common_text_size" />
+
+            </LinearLayout>
+                <LinearLayout style="@style/StyleLinear">
+                    <TextView
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="记录日期:" />
+                    <Button
+                        android:id="@+id/bt_shijian4"
+                        android:layout_width="150dp"
+                        android:layout_height="30dp"
+                        android:background="@drawable/button_style"
+                        android:gravity="center"
+                        android:text="请选择时间"
+                        android:textSize="@dimen/common_text_size" />
+                </LinearLayout>
+                <LinearLayout style="@style/StyleLinear">
+                    <TextView
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="经办人:" />
+
+                    <EditText
+                        android:id="@+id/et_jingbanren"
+                        style="@style/StyleEdit"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/StyleLinear">
+
+                    <TextView
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="联系电话:" />
+
+                    <EditText
+                        android:id="@+id/et_lianxidianhua2"
+                        android:inputType="number"
+                        style="@style/StyleEdit" />
+                </LinearLayout>
+
+                <LinearLayout style="@style/StyleLinear">
+
+                    <TextView
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="备注:" />
+
+                    <EditText
+                        android:id="@+id/et_beizhu"
+                        style="@style/StyleEdit"
+                        android:inputType="number" />
+                </LinearLayout>
+                <Button
+                    android:id="@+id/bt_shangchuan"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/button_style"
+                    android:gravity="center"
+                    android:text="保存"
+                    android:textSize="@dimen/common_text_size" />
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</FrameLayout>

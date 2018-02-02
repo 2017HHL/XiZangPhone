@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <include layout="@layout/view_title" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/common_padding_bottom"
+        android:paddingLeft="@dimen/common_padding_left"
+        android:paddingRight="@dimen/common_padding_right"
+        android:paddingTop="@dimen/common_padding_top">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="检疫证编号:" />
+
+                <TextView
+                    android:id="@+id/et_jianyizheng_bianhao"
+                    style="@style/StyleEdit" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="货主:" />
+
+                <TextView
+                    android:id="@+id/et_huozhu_name"
+                    style="@style/StyleEdit" />
+            </LinearLayout>
+
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="联系电话:" />
+
+                <TextView
+                    android:id="@+id/et_huozhu_phone"
+                    style="@style/StyleEdit" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout style="@style/StyleLinear">
+
+                    <TextView
+                        android:id="@+id/textView2"
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="动物种类:" />
+
+                    <TextView
+                        android:id="@+id/et_animal_type"
+                        style="@style/StyleEdit" />
+
+                    <TextView
+                        android:id="@+id/et_animal_leixing"
+                        style="@style/StyleEdit"
+                        android:textColor="@color/black"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginRight="5dp"
+                        android:gravity="center"
+                        android:minWidth="40dp"
+                        android:text="单位"
+                        android:textColor="@color/common_color"
+                        android:textSize="@dimen/common_text_size"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/et_animal_danwei"
+                        style="@style/StyleEdit"
+                        android:textColor="@color/black"/>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="数量:" />
+
+                <TextView
+                    android:id="@+id/et_animal_number"
+                    style="@style/StyleEdit" />
+
+            </LinearLayout>
+
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="用途:" />
+
+                <TextView
+                    android:id="@+id/et_animal_yongtu"
+                    style="@style/StyleEdit" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="起运地类别:" />
+
+                <TextView
+                    android:id="@+id/et_qiyun_type"
+                    style="@style/StyleEdit" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout style="@style/StyleLinear">
+
+                    <TextView
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="启运地点:" />
+
+                    <TextView
+                        android:id="@+id/et_qiyun_shi"
+                        style="@style/StyleEdit" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginRight="5dp"
+                        android:gravity="center"
+                        android:minWidth="40dp"
+                        android:text="市（州）"
+                        android:textColor="@color/common_color"
+                        android:textSize="@dimen/common_text_size"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/et_qiyun_xian"
+                        style="@style/StyleEdit"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginRight="5dp"
+                        android:gravity="center"
+                        android:minWidth="40dp"
+                        android:text="县"
+                        android:textColor="@color/common_color"
+                        android:textSize="@dimen/common_text_size"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    android:id="@+id/et_start_village"
+                    style="@style/StyleEdit" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:text="乡(镇)"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/common_text_size" />
+
+                <TextView
+                    android:id="@+id/et_start_other"
+                    style="@style/StyleEdit" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:text="村"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/common_text_size" />
+
+            </LinearLayout>
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="到达地类别:" />
+
+                <TextView
+                    android:id="@+id/et_daoda_type"
+                    style="@style/StyleEdit" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout style="@style/StyleLinear">
+
+                    <TextView
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="到达地点:" />
+
+                    <TextView
+                        android:id="@+id/et_daoda_shi"
+                        style="@style/StyleEdit" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginRight="5dp"
+                        android:gravity="center"
+                        android:minWidth="40dp"
+                        android:text="市（州）"
+                        android:textColor="@color/common_color"
+                        android:textSize="@dimen/common_text_size"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/et_daoda_xian"
+                        style="@style/StyleEdit" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginRight="5dp"
+                        android:gravity="center"
+                        android:minWidth="40dp"
+                        android:text="县"
+                        android:textColor="@color/common_color"
+                        android:textSize="@dimen/common_text_size"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    android:id="@+id/et_end_village"
+                    style="@style/StyleEdit" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:text="乡(镇)"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/common_text_size" />
+
+                <TextView
+                    android:id="@+id/et_end_other"
+                    style="@style/StyleEdit" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:text="村"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/common_text_size" />
+
+            </LinearLayout>
+
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="耳标号:" />
+
+                <TextView
+                    android:id="@+id/tv_erbiao"
+                    style="@style/StyleEdit"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:minHeight="160dp" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="官方兽医签字:" />
+
+                <TextView
+                    android:id="@+id/et_signature_checked"
+                    style="@style/StyleEdit" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="签发日期:" />
+
+                <TextView
+                    style="@style/StyleEdit"
+                    android:id="@+id/tv_prove_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:enabled="false"
+                    android:textColor="@color/common_color"
+                    android:textSize="@dimen/common_text_size" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/bt_print"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="5dp"
+                android:gravity="center"
+                android:background="@drawable/button_style"
+                android:text="打印"
+                android:textColor="@color/black"
+                android:textSize="@dimen/common_text_size" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,109 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff">
+
+    <Button
+        android:id="@+id/bt_update"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/more_start_selector"
+        android:drawableLeft="@drawable/update"
+        android:drawablePadding="20dp"
+        android:drawableRight="@drawable/right"
+        android:gravity="center_vertical"
+        android:padding="15dp"
+        android:text="检查更新"
+        android:textSize="17sp" />
+
+    <!--<View-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="1dp"-->
+    <!--android:background="#d8d8d8" />-->
+
+    <!--<Button-->
+    <!--android:id="@+id/btn_haoping"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:background="@drawable/more_start_selector"-->
+    <!--android:drawableLeft="@drawable/haoping"-->
+    <!--android:drawablePadding="20dp"-->
+    <!--android:drawableRight="@drawable/right"-->
+    <!--android:gravity="center_vertical"-->
+    <!--android:padding="15dp"-->
+    <!--android:text="给出好评"-->
+    <!--android:textSize="17sp" />-->
+
+    <!--<View-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="1dp"-->
+    <!--android:background="#d8d8d8" />-->
+
+    <!--<Button-->
+    <!--android:id="@+id/btn_tuijian"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:background="@drawable/more_start_selector"-->
+    <!--android:drawableLeft="@drawable/share"-->
+    <!--android:drawablePadding="20dp"-->
+    <!--android:drawableRight="@drawable/right"-->
+    <!--android:gravity="center_vertical"-->
+    <!--android:padding="15dp"-->
+    <!--android:text="推荐给朋友"-->
+    <!--android:textSize="17sp" />-->
+
+    <!--<View-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="1dp"-->
+    <!--android:background="#d8d8d8" />-->
+
+    <!--<Button-->
+    <!--android:id="@+id/btn_fankui"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:background="@drawable/more_start_selector"-->
+    <!--android:drawableLeft="@drawable/feedback"-->
+    <!--android:drawablePadding="20dp"-->
+    <!--android:drawableRight="@drawable/right"-->
+    <!--android:gravity="center_vertical"-->
+    <!--android:padding="15dp"-->
+    <!--android:text="用户反馈"-->
+    <!--android:textSize="17sp" />-->
+
+    <!--<View-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="1dp"-->
+    <!--android:background="#d8d8d8" />-->
+
+    <Button
+        android:id="@+id/bt_about_us"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/more_start_selector"
+        android:drawableLeft="@drawable/about"
+        android:drawablePadding="20dp"
+        android:drawableRight="@drawable/right"
+        android:gravity="center_vertical"
+        android:padding="15dp"
+        android:text="关于我们"
+        android:textSize="17sp" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#d8d8d8" />
+
+    <Button
+        android:id="@+id/bt_exit"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/listView1"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/selector_login_btn_next_bg"
+        android:text="退出当前账号" />
+
+</LinearLayout>

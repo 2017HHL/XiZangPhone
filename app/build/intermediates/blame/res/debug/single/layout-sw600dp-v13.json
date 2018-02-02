@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    }
+]

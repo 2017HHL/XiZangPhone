@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\huanghaoling\XiZangPhone\app\src\main\jniLibs"><file name="armeabi/libeprinterdriver.so" path="E:\huanghaoling\XiZangPhone\app\src\main\jniLibs\armeabi\libeprinterdriver.so"/><file name="armeabi/libjpeg-8c.so" path="E:\huanghaoling\XiZangPhone\app\src\main\jniLibs\armeabi\libjpeg-8c.so"/></source></dataSet><dataSet config="debug"><source path="E:\huanghaoling\XiZangPhone\app\src\debug\jniLibs"/></dataSet></merger>

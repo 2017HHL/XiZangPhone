@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background_dim_overlay">#44000000</color>
+
+    <color name="material_red">@color/material_red_500</color>
+    <color name="material_red_500">#f44336</color>
+
+    <!-- bottom bar&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;-->
+    <color name="bb_inActiveBottomBarItemColor">#747474</color>
+    <color name="white">#FFFFFF</color>
+    <color name="bb_darkBackgroundColor">#212121</color>
+    <color name="bb_tabletRightBorderDark">#505050</color>
+
+    <!--viewfindview-->
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="cuxian">#868686</color>
+    <color name="possible_result_points">#c0ffff00</color>
+
+    <!--this-->
+    <color name="titleBarBg">#19a4ff</color>
+    <color name="chuxian">#868686</color>
+    <color name="loginBg">#CCCCCC</color>
+    <color name="table">#CCCCCC</color>
+    <color name="line_grey">#a2a7a7</color>
+    <color name="bule1">#ffFF0000</color>
+    <color name="bule">#ff18b4ed</color>
+    <color name="common_edit_color">#000000</color>
+    <color name="common_edit_hint_color">#000000</color>
+    <color name="common_color">#000000</color>
+    <color name="black">#ff000000</color>
+    <color name="xixian">#6FADAD</color>
+</resources>

@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <include layout="@layout/view_title" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/common_padding_bottom"
+        android:paddingLeft="@dimen/common_padding_left"
+        android:paddingRight="@dimen/common_padding_right"
+        android:paddingTop="@dimen/common_padding_top">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="检疫证编号:" />
+
+                <TextView
+                    android:id="@+id/et_quarantine_no"
+                    style="@style/StyleEdit" />
+            </LinearLayout>
+
+            <!--<LinearLayout style="@style/StyleLinear">-->
+
+            <!--<TextView-->
+            <!--style="@style/StyleTextLeft"-->
+            <!--android:layout_marginRight="5dp"-->
+            <!--android:text="搜索:" />-->
+
+            <!--<EditText-->
+            <!--android:id="@+id/et_sousuo"-->
+            <!--style="@style/StyleEdit"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content" />-->
+
+            <!--</LinearLayout>-->
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="货主:" />
+
+                <TextView
+                    android:id="@+id/et_user_name"
+                    style="@style/StyleEdit" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout style="@style/StyleLinear">
+
+                    <TextView
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="联系电话:" />
+
+                    <TextView
+                        android:id="@+id/et_user_phone"
+                        style="@style/StyleEdit" />
+                </LinearLayout>
+            </LinearLayout>
+
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="产品名称:" />
+
+                <TextView
+                    android:id="@+id/et_product_name"
+                    style="@style/StyleEdit" />
+
+                <!--<Spinner-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:id="@+id/sp_prod_name1"-->
+                <!--android:layout_weight="1">-->
+
+                <!--</Spinner>-->
+                <!--<Spinner-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:id="@+id/sp_prod_name2"-->
+                <!--android:layout_weight="1">-->
+
+                <!--</Spinner>-->
+                <!--<Spinner-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:id="@+id/sp_prod_name3"-->
+                <!--android:layout_weight="1">-->
+
+                <!--</Spinner>-->
+            </LinearLayout>
+
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="数量及单位:" />
+
+                <TextView
+                    android:id="@+id/et_product_count"
+                    style="@style/StyleEdit"
+                    android:layout_width="wrap_content"
+                    android:layout_weight="0"
+                    android:maxLength="5"
+                    android:minWidth="150dp" />
+
+                <!--<Spinner-->
+                <!--android:id="@+id/sp_product_danwei"-->
+                <!--android:layout_width="100dp"-->
+                <!--android:layout_height="wrap_content" />-->
+                <TextView
+                    android:layout_marginLeft="10dp"
+                    android:id="@+id/tv_product_danwei"
+                    android:textColor="@color/black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:enabled="false"
+                    android:gravity="center" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout style="@style/StyleLinear">
+
+                    <TextView
+                        style="@style/StyleTextLeft"
+                        android:layout_marginRight="5dp"
+                        android:text="生产单位名称:" />
+
+                    <TextView
+                        android:id="@+id/et_start_name"
+                        style="@style/StyleEdit"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="地址:" />
+
+                <TextView
+                    android:id="@+id/et_start_place"
+                    style="@style/StyleEdit" />
+
+                <!--<Spinner-->
+                <!--android:id="@+id/sp_qiyun_sheng"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_weight="1" />-->
+
+                <!--<Spinner-->
+                <!--android:id="@+id/sp_qiyun_shi"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_weight="1" />-->
+
+                <!--<Spinner-->
+                <!--android:id="@+id/sp_qiyun_xian"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_weight="1" />-->
+
+            </LinearLayout>
+
+            <!--<EditText-->
+            <!--android:id="@+id/et_qiyun_xiang"-->
+            <!--style="@style/StyleEditExr"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:layout_marginLeft="20dp"-->
+            <!--android:layout_marginRight="20dp"-->
+            <!--android:gravity="center"-->
+            <!--android:imeOptions="actionNext"-->
+            <!--android:nextFocusForward="@+id/et_start_other"-->
+            <!--android:textColor="@color/common_edit_color"-->
+            <!--android:textColorHint="@color/common_edit_hint_color"-->
+            <!--android:textSize="@dimen/common_edit_size" />-->
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="目的地:" />
+
+                <TextView
+                    android:id="@+id/et_end_place"
+                    style="@style/StyleEdit" />
+
+                <!--<Spinner-->
+                <!--android:id="@+id/sp_daoda_sheng"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_weight="1" />-->
+
+                <!--<Spinner-->
+                <!--android:id="@+id/sp_daoda_shi"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_weight="1" />-->
+
+                <!--<Spinner-->
+                <!--android:id="@+id/sp_daoda_xian"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_weight="1" />-->
+
+            </LinearLayout>
+
+            <!--<EditText-->
+            <!--android:id="@+id/et_daoda_xiang"-->
+            <!--style="@style/StyleEditExr"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:layout_marginLeft="20dp"-->
+            <!--android:layout_marginRight="20dp"-->
+            <!--android:gravity="center"-->
+            <!--android:imeOptions="actionNext"-->
+            <!--android:nextFocusForward="@+id/et_start_other"-->
+            <!--android:textColor="@color/common_edit_color"-->
+            <!--android:textColorHint="@color/common_edit_hint_color"-->
+            <!--android:textSize="@dimen/common_edit_size" />-->
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="承运人:" />
+
+                <TextView
+                    android:id="@+id/et_carrier_name"
+                    style="@style/StyleEdit"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="联系电话:" />
+
+                <TextView
+                    android:id="@+id/et_carrier_phone"
+                    style="@style/StyleEdit" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="运载工具号:" />
+
+                <TextView
+                    android:id="@+id/et_carrier_util_number"
+                    style="@style/StyleEdit" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="运载前消毒:" />
+
+                <TextView
+                    android:id="@+id/et_steriallier_method"
+                    style="@style/StyleEdit" />
+
+                <!--<Button-->
+                <!--android:id="@+id/bt_steriallier_method"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="消毒方式"-->
+                <!--android:textColor="@color/black"-->
+                <!--android:textSize="12sp" />-->
+            </LinearLayout>
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="运输方式:" />
+
+                <TextView
+                    android:id="@+id/et_transportation"
+                    style="@style/StyleEdit" />
+
+                <!--<RadioGroup-->
+                <!--android:id="@+id/rg_transportation"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:orientation="horizontal">-->
+
+                <!--<RadioButton-->
+                <!--android:id="@+id/rb_railway"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_weight="1"-->
+                <!--android:checked="true"-->
+                <!--android:text="铁路"-->
+                <!--android:textSize="@dimen/common_text_size" />-->
+
+                <!--<RadioButton-->
+                <!--android:id="@+id/rb_highway"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_weight="1"-->
+                <!--android:focusable="false"-->
+                <!--android:text="公路"-->
+                <!--android:textSize="@dimen/common_text_size" />-->
+
+                <!--<RadioButton-->
+                <!--android:id="@+id/rb_waveway"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_weight="1"-->
+                <!--android:focusable="false"-->
+                <!--android:text="水路"-->
+                <!--android:textSize="@dimen/common_text_size" />-->
+
+                <!--<RadioButton-->
+                <!--android:id="@+id/rb_aviation"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_weight="1"-->
+                <!--android:focusable="false"-->
+                <!--android:text="航空"-->
+                <!--android:textSize="@dimen/common_text_size" />-->
+                <!--</RadioGroup>-->
+            </LinearLayout>
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="10dp"
+                android:background="@color/xixian" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="　　本批动物经检疫合格,应于  "
+                    android:textColor="@color/black"
+                    android:textSize="13sp" />
+
+                <!--<Spinner-->
+                <!--android:id="@+id/sp_youxiangday"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content" />-->
+                <TextView
+                    android:id="@+id/tv_youxiaodaodari"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="  日内到达有效。"
+                    android:textColor="@color/black"
+                    android:textSize="13sp" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:text="备注:" />
+
+                <TextView
+                    android:id="@+id/et_remark"
+                    style="@style/StyleEdit"
+                    android:maxLines="10"
+                    android:singleLine="false" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp">
+
+            </View>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/xixian" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp">
+
+            </View>
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:minWidth="120dp"
+                    android:text="官方兽医签字:" />
+
+                <TextView
+                    android:id="@+id/et_signature_checked"
+                    style="@style/StyleEdit"
+                    android:enabled="false"
+                    android:focusable="false" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:minWidth="120dp"
+                    android:text="动物卫生监督所电话:" />
+
+                <TextView
+                    android:id="@+id/et_check_phone"
+                    style="@style/StyleEdit" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/StyleLinear">
+
+                <TextView
+                    style="@style/StyleTextLeft"
+                    android:layout_marginRight="5dp"
+                    android:minWidth="120dp"
+                    android:text="签发日期:" />
+
+                <TextView
+                    android:id="@+id/tv_prove_time"
+                    style="@style/StyleEdit"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textColor="@color/common_color"
+                    android:textSize="@dimen/common_text_size" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/bt_baocun"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="5dp"
+                android:gravity="center"
+                android:background="@drawable/button_style"
+                android:text="打印"
+                android:textColor="@color/black"
+                android:textSize="@dimen/common_text_size" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

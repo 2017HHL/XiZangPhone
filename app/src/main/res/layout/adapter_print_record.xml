@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:orientation="vertical">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:stretchColumns="1,3">
+
+        <TableRow>
+            <TextView
+                style="@style/Common_TextView_Style_Bold"
+                android:gravity="center"
+                android:text="编　号:"
+                android:textSize="@dimen/common_tv_size"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_no"
+                style="@style/Common_TextView_Style"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="编  号:" />
+            <TextView
+                style="@style/Common_TextView_Style_Bold"
+                android:gravity="center"
+                android:text="签发日期:"
+                android:textSize="@dimen/common_tv_size"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_apply_time"
+                style="@style/Common_TextView_Style"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="编  号:" />
+        </TableRow>
+        <TableRow>
+            <TextView
+                style="@style/Common_TextView_Style_Bold"
+                android:text="货　主:"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textSize="@dimen/common_tv_size"/>
+            <TextView
+                android:id="@+id/tv_name"
+                style="@style/Common_TextView_Style"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="编  号:编  编  号:"/>
+            <TextView
+                style="@style/Common_TextView_Style_Bold"
+                android:text="状态:"
+                android:textStyle="bold"
+                android:textSize="@dimen/common_tv_size"/>
+            <TextView
+                android:id="@+id/tv_state"
+                style="@style/Common_TextView_Style"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="编  号:"/>
+        </TableRow>
+    </TableLayout>
+    <View
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/black"
+        />
+</LinearLayout>

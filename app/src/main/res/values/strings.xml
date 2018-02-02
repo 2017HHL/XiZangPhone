@@ -1,0 +1,426 @@
+<resources>
+    <string name="app_name">动监e通</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading">加载中</string>
+    <string name="timepicker_finish">完成</string>
+    <string name="pictures">点击拍照</string>
+
+    <!--用途-->
+    <array name="useage">
+        <item>屠宰</item>
+        <item>二次饲养</item>
+        <item>其他</item>
+        <item>役用</item>
+        <item>观赏</item>
+        <item>种用</item>
+        <item>乳用</item>
+        <item>宠物</item>
+        <item>演出</item>
+        <item>比赛</item>
+    </array>
+
+    <!--动物种类-->
+    <array name="anim_name">
+        <item>猪</item>
+        <item>牛</item>
+        <item>羊</item>
+        <item>鸡</item>
+        <item>鸭</item>
+        <item>鹅</item>
+        <item>实验动物</item>
+        <item>观赏动物</item>
+        <item>伴侣动物</item>
+        <item>演艺动物</item>
+        <item>野生动物</item>
+        <item>经济动物</item>
+        <item>驴</item>
+        <item>骡</item>
+        <item>鹿</item>
+        <item>兔</item>
+        <item>犬</item>
+        <item>猫</item>
+        <item>骆驼</item>
+        <item>鹌鹑</item>
+        <item>鸽</item>
+        <item>孔雀</item>
+        <item>火鸡</item>
+        <item>其他畜类</item>
+        <item>其他禽类</item>
+        <item>马</item>
+    </array>
+
+    <array name="anim_zhu">
+        <item>生猪</item>
+        <item>母猪</item>
+        <item>种猪</item>
+        <item>公猪</item>
+        <item>其他猪</item>
+    </array>
+
+    <array name="anim_niu">
+        <item>奶牛</item>
+        <item>役用牛</item>
+        <item>肉牛</item>
+        <item>种公牛</item>
+        <item>其他牛</item>
+    </array>
+
+    <array name="anim_yang">
+        <item>奶山羊</item>
+        <item>种羊</item>
+        <item>肉羊</item>
+    </array>
+
+    <array name="anim_ji">
+        <item>肉鸡</item>
+        <item>蛋鸡</item>
+        <item>雏鸡</item>
+        <item>种鸡</item>
+        <item>柴鸡</item>
+        <item>其他鸡</item>
+    </array>
+
+    <array name="anim_ya">
+        <item>雏鸭</item>
+        <item>肉鸭</item>
+        <item>蛋鸭</item>
+        <item>种鸭</item>
+        <item>其他鸭</item>
+    </array>
+
+    <array name="anim_e">
+        <item>雏鹅</item>
+        <item>肉鹅</item>
+        <item>蛋鹅</item>
+        <item>种鹅</item>
+        <item>其他鹅</item>
+    </array>
+
+    <array name="anim_shiyan">
+        <item>小鼠</item>
+        <item>大鼠</item>
+        <item>豚鼠</item>
+        <item>其他实验动物</item>
+    </array>
+
+    <array name="anim_guanshang">
+        <item>鹦鹉</item>
+        <item>金丝雀</item>
+        <item>金鱼</item>
+        <item>其他观赏动物</item>
+    </array>
+
+    <array name="anim_banlv">
+        <item>宠物兔</item>
+        <item>宠物猪</item>
+        <item>宠物猴</item>
+        <item>宠物狗</item>
+        <item>其他伴侣动物</item>
+    </array>
+
+    <array name="anim_yanyi">
+        <item>赛马</item>
+        <item>其他演艺动物</item>
+    </array>
+
+    <array name="anim_yesheng">
+        <item>野鸡</item>
+        <item>野鸭</item>
+        <item>野猪</item>
+        <item>大熊猫</item>
+        <item>虎</item>
+        <item>其他野生动物</item>
+    </array>
+
+    <array name="anim_jingji">
+        <item>狐</item>
+        <item>水貂</item>
+        <item>貂</item>
+        <item>麝鼠</item>
+        <item>珍珠鸡</item>
+        <item>鹧鸪</item>
+        <item>蜜蜂</item>
+        <item>其他经济动物</item>
+    </array>
+
+    <!--动物单位-->
+    <array name="anim_danwei">
+        <item>只</item>
+        <item>头</item>
+        <item>羽</item>
+        <item>尾</item>
+        <item>箱</item>
+        <item>匹</item>
+        <item>条</item>
+    </array>
+
+    <string-array name="source_list">
+        <item>家畜家禽</item>
+        <item>人工饲养</item>
+        <item>合法捕获</item>
+    </string-array>
+    <string-array name="start_place_type_list">
+        <item>养殖场</item>
+        <item>交易市场</item>
+        <item>散养户</item>
+    </string-array>
+    <string-array name="end_place_type_list">
+        <item>屠宰场</item>
+        <item>养殖场</item>
+        <item>交易市场</item>
+        <item>散养户</item>
+    </string-array>
+
+    <!--产品名称1-->
+    <array name="product_name_1">
+        <item>畜产品</item>
+        <item>畜副产品</item>
+        <item>禽产品</item>
+        <item>禽副产品</item>
+        <item>其它产品</item>
+    </array>
+
+    <!--产品名称11-->
+    <array name="product_name_11">
+        <item>其它畜产品</item>
+        <item>猪肉</item>
+        <item>牛肉</item>
+        <item>羊肉</item>
+        <item>驴肉</item>
+        <item>兔肉</item>
+        <item>狗肉</item>
+    </array>
+    <!--狗肉，兔肉，驴肉，其他畜产品，筋,鹌鹑肉,鸽肉,其他禽产品，头，其他禽副产品,精液，胚胎，种蛋，卵，其它产品-->
+    <array name="product_mei">
+        <item>请选择</item>
+    </array>
+    <!--猪肉-->
+    <array name="product_zhurou">
+        <item>请选择</item>
+        <item>其他</item>
+        <item>猪胴体</item>
+    </array>
+
+    <!--牛肉-->
+    <array name="product_niurou">
+        <item>请选择</item>
+        <item>牛胴体</item>
+        <item>其他</item>
+    </array>
+    <!--羊肉-->
+    <array name="product_yangrou">
+        <item>请选择</item>
+        <item>羊胴体</item>
+    </array>
+
+    <!--产品名称12-->
+    <array name="product_name_12">
+        <item>脏器</item>
+        <item>血液</item>
+        <item>生皮</item>
+        <item>原毛</item>
+        <item>骨</item>
+        <item>角</item>
+        <item>头</item>
+        <item>蹄</item>
+        <item>筋</item>
+        <item>脂</item>
+    </array>
+    <!--脏器-->
+    <array name="product_zangqi1">
+        <item>请选择</item>
+        <item>猪心</item>
+        <item>猪肝</item>
+        <item>猪腰</item>
+        <item>猪副</item>
+        <item>猪下货</item>
+        <item>牛心</item>
+        <item>牛肝</item>
+        <item>牛副</item>
+        <item>牛下货</item>
+        <item>羊心</item>
+        <item>羊肝</item>
+        <item>羊副</item>
+        <item>羊下货</item>
+        <item>其他脏器</item>
+    </array>
+    <!--血液-->
+    <array name="product_xueye1">
+        <item>请选择</item>
+        <item>猪血</item>
+        <item>其他血</item>
+    </array>
+    <!--生皮-->
+    <array name="product_shengpi">
+        <item>请选择</item>
+        <item>猪皮</item>
+        <item>牛皮</item>
+        <item>羊皮</item>
+        <item>鹿皮</item>
+        <item>其他生皮</item>
+    </array>
+    <!--原毛-->
+    <array name="product_yuanmao1">
+        <item>请选择</item>
+        <item>猪毛</item>
+        <item>牛毛</item>
+        <item>羊毛</item>
+        <item>其他原毛</item>
+    </array>
+    <!--骨-->
+    <array name="product_gu">
+        <item>请选择</item>
+        <item>猪排</item>
+        <item>牛骨</item>
+        <item>羊骨</item>
+    </array>
+    <!--角-->
+    <array name="product_jiao">
+        <item>请选择</item>
+        <item>牛角</item>
+        <item>鹿茸</item>
+        <item>其他角</item>
+    </array>
+    <!--头-->
+    <array name="product_tou">
+        <item>请选择</item>
+        <item>猪头</item>
+        <item>牛头</item>
+        <item>羊头</item>
+        <item>其他头</item>
+    </array>
+    <!--蹄-->
+    <array name="product_ti">
+        <item>请选择</item>
+        <item>猪蹄</item>
+        <item>牛蹄</item>
+        <item>羊蹄</item>
+        <item>其他蹄</item>
+    </array>
+    <!--脂-->
+    <array name="product_zhi">
+        <item>请选择</item>
+        <item>猪脂</item>
+        <item>其他脂</item>
+    </array>
+    <!--产品名称13-->
+    <array name="product_name_13">
+        <item>鸡肉</item>
+        <item>鸭肉</item>
+        <item>鹅肉</item>
+        <item>鹌鹑肉</item>
+        <item>鸽肉</item>
+        <item>其他禽产品</item>
+    </array>
+    <!--鸡肉-->
+    <array name="product_jirou">
+        <item>请选择</item>
+        <item>分割鸡</item>
+        <item>鸡产品</item>
+        <item>鸡腿</item>
+        <item>鸡胸</item>
+        <item>鸡爪</item>
+        <item>鸡翅</item>
+        <item>鸡脖</item>
+        <item>其他鸡产品</item>
+    </array>
+    <!--鸭肉-->
+    <array name="product_yarou">
+        <item>请选择</item>
+        <item>分割鸭</item>
+        <item>鸭产品</item>
+        <item>鸭腿</item>
+        <item>鸭胸</item>
+        <item>鸭掌</item>
+        <item>鸭翅</item>
+        <item>鸭脖</item>
+        <item>其他鸭产品</item>
+    </array>
+    <!--鹅肉-->
+    <array name="product_erou">
+        <item>请选择</item>
+        <item>分割鹅</item>
+        <item>鹅产品</item>
+        <item>鹅掌</item>
+        <item>其他鹅产品</item>
+    </array>
+
+    <!--产品名称14-->
+    <array name="product_name_14">
+        <item>原毛</item>
+        <item>脏器</item>
+        <item>血液</item>
+        <item>绒</item>
+        <item>头</item>
+        <item>其他禽副产品</item>
+    </array>
+    <!--原毛-->
+    <array name="product_yuanmao2">
+        <item>请选择</item>
+        <item>鸡毛</item>
+        <item>鸭毛</item>
+        <item>鹅毛</item>
+        <item>其他原毛</item>
+    </array>
+    <!--脏器-->
+    <array name="product_zangqi2">
+        <item>请选择</item>
+        <item>鸡心</item>
+        <item>鸡胗</item>
+        <item>鸭心</item>
+        <item>鸭胗</item>
+        <item>鸭肝</item>
+        <item>鸭肠</item>
+        <item>鹅心</item>
+        <item>其他脏器</item>
+        <item>鹅肝</item>
+    </array>
+    <!--血液-->
+    <array name="product_xueye2">
+        <item>请选择</item>
+        <item>鸡血</item>
+        <item>鸭血</item>
+        <item>其他血液</item>
+    </array>
+    <!--绒-->
+    <array name="product_rong">
+        <item>请选择</item>
+        <item>鸭绒</item>
+        <item>鹅绒</item>
+        <item>其它绒</item>
+    </array>
+    <!--产品名称15-->
+    <array name="product_name_15">
+        <item>精液</item>
+        <item>胚胎</item>
+        <item>种蛋</item>
+        <item>卵</item>
+        <item>其他产品</item>
+    </array>
+    <!--产品单位1-->
+    <array name="product_danwei">
+        <item>吨</item>
+        <item>张</item>
+        <item>箱</item>
+        <item>千克</item>
+        <item>千克（公斤）</item>
+    </array>
+    <!--产品单位3-->
+    <array name="product_name3">
+        <item>请选择</item>
+    </array>
+
+    <!--有效到达日-->
+    <array name="youxiaodaodari">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </array>
+
+
+</resources>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <paths>
+        <!--Context.getFilesDir() + /path/。-->
+        <!--<files-path name="" path="cache"/>-->
+        <!--<files-path name="" path="bug"/>-->
+        <!--<files-path name="" path="patch"/>-->
+        <!--物理路径相当于Context.getCacheDir() + /path/。-->
+        <!--<cache-path name="name" path="path" />-->
+        <!--物理路径相当于Environment.getExternalStorageDirectory() + /path/。-->
+        <!--<external-path path="Android/data/com.mingnong.hunanapp/files/" name="cache"/>-->
+        <external-path
+            name="cache"
+            path="Android/data/com.mingnong.xizangphone/files/" />
+        <!--外置SD卡-->
+        <!--<root-path name="name" path="path" />-->
+        <!--<external-path path="Android/data/com.mingnong.hunanapp/files/" name="bug"/>-->
+        <!--<external-path path="Android/data/com.mingnong.hunanapp/files/" name="patch"/>-->
+    </paths>
+</resources>

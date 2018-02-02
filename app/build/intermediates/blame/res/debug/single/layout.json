@@ -1,0 +1,1898 @@
+[
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_add_wuhaihua.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_add_wuhaihua.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_print_acitivty.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_print_acitivty.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\animal_a_add.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\animal_a_add.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\productaaa_adapter.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\productaaa_adapter.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tishi_activity.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\tishi_activity.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_process.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_product_process.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_detil_production_b.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_detil_production_b.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_list_chang_di.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_list_chang_di.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_erbiao.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\spinner_erbiao.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tu_zai_jian_yi.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_tu_zai_jian_yi.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rotation_header.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\rotation_header.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dim_overlay.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\dim_overlay.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\meituan_footer.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\meituan_footer.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_home_item.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_home_item.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_print_a.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_product_print_a.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_print_a.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_product_print_a.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\anim_shouli.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\anim_shouli.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wu_hai_hua_add.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_wu_hai_hua_add.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_print_bactivity.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_product_print_bactivity.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_search_header.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_search_header.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_query.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\fragment_query.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_product_declare_list.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_product_declare_list.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_print_record.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_print_record.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_title.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\view_title.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\animal_b_add.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\animal_b_add.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_simple.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\spinner_simple.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tuzai_adapter.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\tuzai_adapter.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_anim_declare_list.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_anim_declare_list.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_layout.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_search_layout.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\whh_detil_activity.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\whh_detil_activity.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_sd.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_show_sd.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\default_header.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\default_header.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_process.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_anim_process.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\meituan_header.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\meituan_header.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_print_a.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_anim_print_a.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_bb_bottom_bar_item_container_tablet.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\other_bb_bottom_bar_item_container_tablet.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_shouli.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\product_shouli.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ali_footer.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\ali_footer.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_new_search_header.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_new_search_header.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_title.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\view_title.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_product_declare_list.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_product_declare_list.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_bb_bottom_bar_item_fixed.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\other_bb_bottom_bar_item_fixed.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_print_record.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_print_record.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_detil_animal_b.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_detil_animal_b.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\animal_b_add.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\animal_b_add.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_print_a.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_anim_print_a.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_anim_declare_list.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_anim_declare_list.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_print_a.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_product_print_a.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_product_quarantine_list.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_product_quarantine_list.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_process.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_product_process.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\default_recycler_load_finish.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\default_recycler_load_finish.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_sd.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_show_sd.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rotation_header.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\rotation_header.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_detil_chang_di.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_detil_chang_di.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_bb_bottom_bar_item_container.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\other_bb_bottom_bar_item_container.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_declare_list.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_anim_declare_list.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\animalaaa_adapter.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\animalaaa_adapter.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chan_di_jian_yi_cha_xun.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_chan_di_jian_yi_cha_xun.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sign_activity.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\sign_activity.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_bb_bottom_bar_item_fixed_tablet.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\other_bb_bottom_bar_item_fixed_tablet.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_title.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\common_title.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_bb_bottom_bar_item_container.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\other_bb_bottom_bar_item_container.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_declare_detil.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_product_declare_detil.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_notice.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\dialog_notice.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_b_add.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\product_b_add.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\printer.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\printer.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_picker_second.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\dialog_picker_second.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_file_show.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_file_show.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_erbiaolist_item.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_erbiaolist_item.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_chang_di.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_chang_di.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_add_wuhaihua.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_add_wuhaihua.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_bb_bottom_bar_item_shifting.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\other_bb_bottom_bar_item_shifting.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_declar_add.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_anim_declar_add.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_erbiaolist_item.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_erbiaolist_item.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_query.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\fragment_query.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_recycler.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\fragment_recycler.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\acfun_header.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\acfun_header.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_layout.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_search_layout.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\down_notification.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\down_notification.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_picker_second.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\dialog_picker_second.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\default_recycler_load_finish.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\default_recycler_load_finish.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_erbiao.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\spinner_erbiao.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\acfun_footer.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\acfun_footer.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_product_quarantine_list.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_product_quarantine_list.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_declare_list.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_anim_declare_list.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_print_record_search.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\view_print_record_search.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\down_notification.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\down_notification.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_home_item.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_home_item.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_camera.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\other_camera.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ali_footer.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\ali_footer.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_picker_first.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\dialog_picker_first.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_no_shouli.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\product_no_shouli.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rotation_footer.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\rotation_footer.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\animal_a_add.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\animal_a_add.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_declare_detil.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_product_declare_detil.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\animal_b_add.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\animal_b_add.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_detil_tu_zai.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_detil_tu_zai.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_print_record.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_print_record.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_detil_animal_a.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_detil_animal_a.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_dialog.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\spinner_dialog.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_declar_add1.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_anim_declar_add1.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_a_add.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\product_a_add.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tu_zai_jian_yi_xing_q.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_tu_zai_jian_yi_xing_q.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_def_loading.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\other_def_loading.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_print_acitivty.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_print_acitivty.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_bb_bottom_bar_item_shifting.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\other_bb_bottom_bar_item_shifting.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_simple.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\spinner_simple.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_shouli.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\product_shouli.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_product_quarantine_list.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_product_quarantine_list.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\whh_adapter.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\whh_adapter.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_picker_second.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\dialog_picker_second.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_search_header.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_search_header.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_bb_bottom_bar_item_fixed_tablet.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\other_bb_bottom_bar_item_fixed_tablet.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\animal_a_add.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\animal_a_add.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\haemlesss_lv_itme.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\haemlesss_lv_itme.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tu_zai_jian_yi_cha_xun.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_tu_zai_jian_yi_cha_xun.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_detil_product_a.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_detil_product_a.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_list_chang_di.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_list_chang_di.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_anim_quarantine_list.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_anim_quarantine_list.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_declar_add.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_anim_declar_add.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_line.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\view_line.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_picker_firstgai.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\dialog_picker_firstgai.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_no_shouli.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\product_no_shouli.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_more.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\fragment_more.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_empty.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\view_empty.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chan_di_jian_yi_cha_xun.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_chan_di_jian_yi_cha_xun.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner1.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\spinner1.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_declare_list.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_anim_declare_list.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_picker_firstgai.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\dialog_picker_firstgai.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_print_a.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_anim_print_a.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_recycler.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\fragment_recycler.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xianyongzhe_fragment.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\xianyongzhe_fragment.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chan_di_jian_yi.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_chan_di_jian_yi.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about_us.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about_us.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_recycler.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\fragment_recycler.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_bb_bottom_bar_item_container_tablet.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\other_bb_bottom_bar_item_container_tablet.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xianyongzhe_fragment.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\xianyongzhe_fragment.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_picker_three.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\dialog_picker_three.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_erbiaohao.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\dialog_erbiaohao.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_print_acitivty.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_print_acitivty.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\meituan_header.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\meituan_header.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_detil_production_b.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_detil_production_b.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\animalaaa_adapter.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\animalaaa_adapter.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rotation_footer.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\rotation_footer.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\whh_adapter.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\whh_adapter.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_simple.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_simple.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_camera.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\other_camera.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_empty.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\view_empty.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chan_di_jian_yixiang_q.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_chan_di_jian_yixiang_q.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tuzai_adapter.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\tuzai_adapter.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\printer.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\printer.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tuzai_adapter.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\tuzai_adapter.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_detil_tu_zai.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_detil_tu_zai.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\down_notification.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\down_notification.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_bb_bottom_bar_item_container.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\other_bb_bottom_bar_item_container.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_picker_three.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\dialog_picker_three.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tu_zai_jian_yi_cha_xun.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_tu_zai_jian_yi_cha_xun.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xianyongzhe_fragment.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\xianyongzhe_fragment.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_layout.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_search_layout.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_camera.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\other_camera.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_new_search_header.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_new_search_header.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_quarantine.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_quarantine.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_bb_bottom_bar_item_fixed.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\other_bb_bottom_bar_item_fixed.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\acfun_header.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\acfun_header.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_bb_bottom_bar_item_fixed.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\other_bb_bottom_bar_item_fixed.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_erbiaohao.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\dialog_erbiaohao.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_erbiaolist_item.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_erbiaolist_item.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_print_bactivity.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_product_print_bactivity.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\default_header.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\default_header.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_picker_first.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\dialog_picker_first.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_print_record_search.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\view_print_record_search.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_detil_animal_b.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_detil_animal_b.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_erbiao.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\spinner_erbiao.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_picker_fourth.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\dialog_picker_fourth.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_search_header.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_search_header.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chan_di_jian_yixiang_q.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_chan_di_jian_yixiang_q.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\whh_adapter.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\whh_adapter.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_detil_animal_a.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_detil_animal_a.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_declare_detil.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_anim_declare_detil.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\whh_detil_activity.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\whh_detil_activity.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\acfun_footer.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\acfun_footer.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chan_di_jian_yi_cha_xun.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_chan_di_jian_yi_cha_xun.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_erbiaohao.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\dialog_erbiaohao.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_home_item.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_home_item.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_detil_tu_zai.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_detil_tu_zai.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_print_bactivity.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_product_print_bactivity.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_b_add.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\product_b_add.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\animalaaa_adapter.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\animalaaa_adapter.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_add.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_add.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_anim_declare_list.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_anim_declare_list.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_def_loading.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\other_def_loading.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tishi_activity.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\tishi_activity.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tu_zai_jian_yi_cha_xun.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_tu_zai_jian_yi_cha_xun.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dim_overlay.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\dim_overlay.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_chang_di.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_chang_di.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_picker_firstgai.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\dialog_picker_firstgai.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_picker_fourth.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\dialog_picker_fourth.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sign_activity.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\sign_activity.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_add.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_add.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\haemlesss_lv_itme.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\haemlesss_lv_itme.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_declare_add.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_product_declare_add.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rotation_header.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\rotation_header.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\meituan_footer.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\meituan_footer.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_title.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\view_title.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_detil_animal_a.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_detil_animal_a.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\anim_shouli.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\anim_shouli.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_print_b.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_anim_print_b.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner1.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\spinner1.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\default_footer.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\default_footer.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tu_zai_jian_yi_xing_q.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_tu_zai_jian_yi_xing_q.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_detil_product_a.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_detil_product_a.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_detil_animal_b.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_detil_animal_b.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_layout.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_list_layout.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ali_header.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\ali_header.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_quarantine.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_quarantine.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_declare_detil.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_anim_declare_detil.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\acfun_header.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\acfun_header.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ali_header.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\ali_header.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\default_footer.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\default_footer.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_no_shouli.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\product_no_shouli.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\default_footer.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\default_footer.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wu_hai_hua.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_wu_hai_hua.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_layout.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_list_layout.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_query.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\fragment_query.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_picker_fourth.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\dialog_picker_fourth.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_anim_quarantine_list.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_anim_quarantine_list.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_add_wuhaihua.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_add_wuhaihua.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_more.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\fragment_more.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chan_di_jian_yi.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_chan_di_jian_yi.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_picker_three.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\dialog_picker_three.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_declar_add1.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_anim_declar_add1.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\meituan_footer.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\meituan_footer.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_a_add.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\product_a_add.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_print_record_search.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\view_print_record_search.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_print_b.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_anim_print_b.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner1.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\spinner1.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about_us.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_bb_bottom_bar_item_shifting.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\other_bb_bottom_bar_item_shifting.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_add.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_add.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_process.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_anim_process.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_declar_add.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_anim_declar_add.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_declare_add.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_product_declare_add.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wu_hai_hua_add.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_wu_hai_hua_add.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_product_declare_list.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_product_declare_list.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_detil_production_b.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_detil_production_b.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_notice.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\dialog_notice.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_title.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\common_title.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_shouli.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\product_shouli.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\default_recycler_load_finish.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\default_recycler_load_finish.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\default_header.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\default_header.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tu_zai_jian_yi_xing_q.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_tu_zai_jian_yi_xing_q.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\meituan_header.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\meituan_header.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_detil_chang_di.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_detil_chang_di.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\anim_shouli.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\anim_shouli.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_sd.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_show_sd.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_print_record.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_print_record.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\haemlesss_lv_itme.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\haemlesss_lv_itme.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_print_record.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_print_record.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\productaaa_adapter.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\productaaa_adapter.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_chang_di.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_chang_di.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tishi_activity.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\tishi_activity.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_detil_chang_di.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_detil_chang_di.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_declare_detil.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_product_declare_detil.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_process.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_anim_process.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_file_show.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_file_show.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_detil_product_a.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_detil_product_a.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_notice.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\dialog_notice.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_line.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\view_line.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_empty.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\view_empty.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_layout.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_list_layout.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ali_footer.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\ali_footer.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wu_hai_hua.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_wu_hai_hua.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_declar_add1.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_anim_declar_add1.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_title.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\common_title.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_declare_add.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_product_declare_add.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_list_chang_di.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_query_list_chang_di.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_dialog.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\spinner_dialog.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_new_search_header.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_new_search_header.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\whh_detil_activity.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\whh_detil_activity.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\productaaa_adapter.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\productaaa_adapter.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_line.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\view_line.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\printer.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\printer.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wu_hai_hua.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_wu_hai_hua.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_def_loading.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\other_def_loading.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chan_di_jian_yixiang_q.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_chan_di_jian_yixiang_q.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_b_add.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\product_b_add.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_more.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\fragment_more.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chan_di_jian_yi.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_chan_di_jian_yi.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_dialog.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\spinner_dialog.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\acfun_footer.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\acfun_footer.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_picker_first.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\dialog_picker_first.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_simple.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_simple.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_quarantine.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_quarantine.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_print_record.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_print_record.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wu_hai_hua_add.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_wu_hai_hua_add.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_bb_bottom_bar_item_container_tablet.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\other_bb_bottom_bar_item_container_tablet.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_bb_bottom_bar_item_fixed_tablet.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\other_bb_bottom_bar_item_fixed_tablet.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_a_add.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\product_a_add.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sign_activity.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\sign_activity.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rotation_footer.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\rotation_footer.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tu_zai_jian_yi.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_tu_zai_jian_yi.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_simple.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\spinner_simple.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_declare_detil.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_anim_declare_detil.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_print_b.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_anim_print_b.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tu_zai_jian_yi.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_tu_zai_jian_yi.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_anim_quarantine_list.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_anim_quarantine_list.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dim_overlay.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\dim_overlay.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ali_header.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\ali_header.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_simple.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_simple.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_process.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\layout\\activity_product_process.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_file_show.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\layout\\adapter_file_show.xml"
+    }
+]

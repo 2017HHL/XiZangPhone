@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:fitsSystemWindows="true"
+    android:id="@+id/activity_print_record"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.design.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include layout="@layout/common_title" />
+        <!-- Toolbar -->
+            <com.mingnong.xizangphone.view.CustomSwipeRefreshLayout
+                android:id="@+id/swipeLayout"
+                app:layout_behavior="@string/appbar_scrolling_view_behavior"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/recyclerview"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"/>
+            </com.mingnong.xizangphone.view.CustomSwipeRefreshLayout>
+
+        <com.mingnong.xizangphone.view.Fab
+            android:id="@+id/fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:layout_margin="16dp"
+            android:elevation="8dp"
+            android:src="@drawable/ic_add_grey600_24dp"
+            app:borderWidth="0dp"
+            app:fabSize="normal" />
+    </android.support.design.widget.CoordinatorLayout>
+    <!-- Overlay that dims the screen -->
+    <com.mingnong.xizangphone.view.materialsheetfab.DimOverlayFrameLayout
+        android:id="@+id/overlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="?attr/actionBarSize" />
+
+    <com.mingnong.xizangphone.view.materialsheetfab.widget.RevealLinearLayout
+        android:layout_width="match_parent"
+        android:gravity="center"
+
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <include layout="@layout/view_print_record_search" />
+    </com.mingnong.xizangphone.view.materialsheetfab.widget.RevealLinearLayout>
+</RelativeLayout>

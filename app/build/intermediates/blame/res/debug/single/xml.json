@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\xml\\file_paths.xml"
+    }
+]

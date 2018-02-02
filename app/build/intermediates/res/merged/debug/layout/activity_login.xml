@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:fitsSystemWindows="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="7dp" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="fill_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/login_miliotech" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:orientation="vertical" >
+
+        <EditText
+            android:id="@+id/etUserName"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/et_bg_oval_blue"
+            android:ems="10"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:gravity="center"
+            android:hint="请输入账号"
+            android:textSize="14dp" >
+        </EditText>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="7dp" >
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/etPwd"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/et_bg_oval_blue"
+            android:gravity="center"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:maxLength="25"
+            android:inputType="textPassword"
+            android:hint="请输入密码"
+            android:textSize="14sp" >
+        </EditText>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/bt_login"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/bt_bg_oval_blue"
+            android:gravity="center"
+            android:text="登 录"
+            android:inputType="number"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+    </LinearLayout>
+    <Button
+        android:id="@+id/clearCache"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bt_bg_oval_blue"
+        android:gravity="center"
+        android:text="清空登录记录"
+        android:inputType="number"
+        android:onClick="clearCache"
+        android:textColor="#ffffff"
+        android:textSize="20sp" />
+    <RelativeLayout
+        android:layout_marginTop="100dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tv_subtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="30dp"
+            android:layout_marginEnd="30dp"
+            android:text="西藏自治区动物卫生及植物检疫监督所"
+            android:textColor="#0099ff"
+            android:textSize="12sp" />
+        <TextView
+            android:id="@+id/tv_version"
+            android:layout_marginTop="5dp"
+            android:layout_below="@+id/tv_subtitle"
+            android:layout_marginRight="30dp"
+            android:layout_marginEnd="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#0099ff"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+</LinearLayout>

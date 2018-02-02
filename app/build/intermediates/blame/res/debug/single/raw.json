@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\raw\\alarm.wav",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\raw\\alarm.wav"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\raw\\alarm.wav",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\raw\\alarm.wav"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\raw\\alarm.wav",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\raw\\alarm.wav"
+    }
+]

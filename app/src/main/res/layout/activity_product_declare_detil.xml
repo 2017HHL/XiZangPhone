@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_product_declare_detil"
+    android:layout_width="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <include layout="@layout/common_title"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="10dp"
+                    android:text="编号："
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size" />
+
+                <EditText
+                    android:id="@+id/et_no"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/s1"
+                    android:focusable="false"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_et_size" />
+            </LinearLayout>
+
+            <include layout="@layout/view_line" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:text="类  型："
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size" />
+
+                <EditText
+                    android:id="@+id/et_type"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/s1"
+                    android:focusable="false"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_et_size" />
+
+                <TextView
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="货 主："
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size" />
+
+                <EditText
+                    android:id="@+id/et_user_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/s1"
+                    android:focusable="false"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_et_size" />
+            </LinearLayout>
+
+            <include layout="@layout/view_line" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:text="联系电话："
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size" />
+
+                <EditText
+                    android:id="@+id/et_user_phone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/s1"
+                    android:focusable="false"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_et_size" />
+            </LinearLayout>
+
+            <include layout="@layout/view_line" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:text="动物/动物产品种类:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size" />
+
+                <EditText
+                    android:id="@+id/et_anim_type"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/s1"
+                    android:focusable="false"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_et_size" />
+            </LinearLayout>
+
+            <include layout="@layout/view_line" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:text="数量及单位:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size" />
+
+                <EditText
+                    android:id="@+id/et_number"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/s1"
+                    android:focusable="false"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_et_size" />
+            </LinearLayout>
+
+            <include layout="@layout/view_line" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:text=" 来  源 :"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size" />
+
+                <EditText
+                    android:id="@+id/et_source"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/s1"
+                    android:focusable="false"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_et_size" />
+            </LinearLayout>
+
+            <include layout="@layout/view_line" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:text="启运时间:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size" />
+
+                <EditText
+                    android:id="@+id/et_start_place_time"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/s1"
+                    android:focusable="false"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_et_size" />
+            </LinearLayout>
+
+            <include layout="@layout/view_line" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:text="启运地点:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size" />
+
+                <EditText
+                    android:id="@+id/et_start_place"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/s1"
+                    android:focusable="false"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_et_size" />
+            </LinearLayout>
+
+            <include layout="@layout/view_line" />
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:text="到达地点:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size" />
+
+                <EditText
+                    android:id="@+id/et_end_place"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/s1"
+                    android:focusable="false"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_et_size" />
+            </LinearLayout>
+
+            <include layout="@layout/view_line" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:text="承 运 人:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size" />
+
+                <EditText
+                    android:id="@+id/et_carrier_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/s1"
+                    android:focusable="false"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_et_size" />
+            </LinearLayout>
+
+            <include layout="@layout/view_line" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp" >
+
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:text="联系电话:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size" />
+
+                <EditText
+                    android:id="@+id/et_carrier_phone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/s1"
+                    android:focusable="false"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_et_size" />
+            </LinearLayout>
+
+            <include layout="@layout/view_line" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:text="运输方式:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size" />
+
+                <EditText
+                    android:id="@+id/et_method"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/s1"
+                    android:focusable="false"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_et_size" />
+            </LinearLayout>
+
+            <include layout="@layout/view_line" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:text="运载工具号:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size" />
+
+                <EditText
+                    android:id="@+id/et_util_number"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/s1"
+                    android:focusable="false"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_et_size" />
+            </LinearLayout>
+
+            <include layout="@layout/view_line" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:text="申报时间:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size" />
+
+                <EditText
+                    android:id="@+id/et_apply_time"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/s1"
+                    android:focusable="false"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_et_size" />
+            </LinearLayout>
+
+            <include layout="@layout/view_line" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:orientation="horizontal" >
+
+
+                <TextView
+                    android:layout_width="105dp"
+                    android:layout_height="wrap_content"
+                    android:text="装载前经:"
+                    android:layout_marginLeft="20dp"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size" />
+
+                <EditText
+                    android:id="@+id/et_sterilize"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/common_et_size"
+
+                    android:gravity="center"
+                    android:focusable="false"
+                    android:background="@drawable/s1"
+                    android:layout_weight="1" />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="消毒"
+                    android:layout_marginRight="20dp"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size" />
+            </LinearLayout>
+
+            <include layout="@layout/view_line" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

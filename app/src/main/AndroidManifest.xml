@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mingnong.xizangphone">
+
+    <!-- 往SDCard中写入数据权限 -->
+    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!-- 往SDCard中写入数据权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.PERMISSION_GRANTED" />
+
+    <application
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity
+            android:name=".activity.LoginActivity"
+            android:launchMode="standard"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.MainActivity"
+            android:launchMode="standard"
+            android:screenOrientation="portrait" />
+        <activity android:name=".activity.AnimalAActivity" />
+        <activity android:name=".activity.AnimalBActivity" />
+        <activity android:name=".activity.ProductAActivity" />
+        <activity android:name=".activity.ProductBActivity" />
+        <activity android:name=".activity.QueryDetilAnimalAActivity" />
+        <activity android:name=".activity.QueryDetilAnimalBActivity" />
+        <activity android:name=".activity.QueryListAnimalAActivity" />
+        <activity android:name=".activity.QueryListAnimalBActivity" />
+        <activity
+            android:name=".activity.AnimDeclareDetilActivity"
+            android:launchMode="standard"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.ProductProcessActivity"
+            android:launchMode="standard"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name=".activity.ProductPrintAActivity"
+            android:launchMode="standard"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+
+        <activity
+            android:name=".activity.ChanDiJianYiActivity"
+            android:launchMode="standard"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name=".activity.QueryDetilTuZaiActivity"
+            android:launchMode="standard"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name=".activity.ProductPrintBActivity"
+            android:launchMode="standard"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name=".activity.PrintAcitivty"
+            android:launchMode="standard"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.AnimProcessActivity"
+            android:launchMode="standard"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name=".activity.AnimPrintAActivity"
+            android:launchMode="standard"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name=".activity.AnimPrintBActivity"
+            android:launchMode="standard"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+
+        <!-- 二维码 -->
+        <activity
+            android:name="zxing.activity.CaptureActivity"
+            android:screenOrientation="portrait" />
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.mingnong.xizangphone.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+        <!-- 访问网络的service -->
+        <receiver
+            android:name="com.epson.isv.eprinterdriver.Ctrl.EPrintStateReceiver"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.epson.isv.eprinterdriver" />
+            </intent-filter>
+        </receiver>
+        <!-- 下载广播 -->
+        <receiver android:name=".broadcast.DownloadReceiver">
+            <intent-filter>
+                <action android:name="com.example.administrator.download" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".broadcast.OpenFileReceiver">
+            <intent-filter>
+                <action android:name="com.wyw.xizangphone.receiver.open" />
+            </intent-filter>
+        </receiver>
+        <!-- <receiver android:name=".service.DownloadService$DismissNotReceiver"> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="com.wyw.xizangphone.receiver.dismiss" /> -->
+        <!-- </intent-filter> -->
+        <!-- </receiver> -->
+
+        <service android:name=".service.DownloadService">
+            <intent-filter>
+                <action android:name="com.wyw.xizangphone.addtask" />
+            </intent-filter>
+        </service>
+        <!-- 应用安装卸载监听 -->
+        <receiver
+            android:name=".broadcast.ApkBroadCastReceiver"
+            android:enabled="true">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <action android:name="android.intent.action.PACKAGE_INSTALL" />
+                <action android:name="android.intent.action.PACKAGE_REPLACED" />
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+                <action android:name="android.intent.action.PACKAGE_REPLACED" />
+                <action android:name="android.intent.action.PACKAGE_RESTARTED" />
+
+                <dataList android:scheme="package" />
+            </intent-filter>
+        </receiver>
+
+        <!-- wang e4ac6056687f5805ed6900b7e721a78d -->
+        <meta-dataList
+            android:name="com.amap.api.v2.apikey"
+            android:value="e4ac6056687f5805ed6900b7e721a78d" />
+
+        <activity
+            android:name=".activity.AboutUsActivity"
+            android:launchMode="standard"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name=".activity.PrintRecordActivity"
+            android:launchMode="standard"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+        <activity android:name=".activity.QueryListProductAActivity" />
+        <activity android:name=".activity.QueryDetilProductAActivity" />
+        <activity android:name=".activity.QueryListProductBActivity" />
+        <activity android:name=".activity.QueryDetilProductBActivity" />
+
+        <!-- 个推SDK配置开始 -->
+        <!-- 配置的第三方参数属性 -->
+        <meta-data
+            android:name="PUSH_APPID"
+            android:value="YOQrmsYZkv71lc9WRTXrI4" />
+        <meta-data
+            android:name="PUSH_APPKEY"
+            android:value="KREhoB43x47N57JEke7w37" />
+        <meta-data
+            android:name="PUSH_APPSECRET"
+            android:value="D1cDd2jRR97qHoK3jTRiL7" />
+
+        <!-- 配置SDK核心服务 -->
+        <service
+            android:name="com.igexin.sdk.PushService"
+            android:exported="true"
+            android:label="NotificationCenter"
+            android:process=":pushservice">
+            <intent-filter>
+                <action android:name="com.igexin.sdk.action.service.message" />
+            </intent-filter>
+        </service>
+
+        <receiver android:name="com.igexin.sdk.PushReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="com.igexin.sdk.action.refreshls" />
+                <!-- 以下三项为可选的action声明，可大大提高service存活率和消息到达速度 -->
+                <action android:name="android.intent.action.MEDIA_MOUNTED" />
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.igexin.sdk.PushActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:process=":pushservice"
+            android:taskAffinity="com.igexin.sdk.PushActivityTask"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <service
+            android:name="com.igexin.download.DownloadService"
+            android:process=":pushservice" />
+
+        <receiver android:name="com.igexin.download.DownloadReceiver">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+
+        <provider
+            android:name="com.igexin.download.DownloadProvider"
+            android:authorities="downloads.${applicationId}"
+            android:exported="true"
+            android:process=":pushservice" />
+
+        <activity
+            android:name="com.igexin.sdk.GActivity"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:process=":pushservice"
+            android:taskAffinity="com.igexin.sdk.PushActivityTask"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <!-- 个推SDK配置结束 -->
+
+
+        <!-- 用户自定义服务继承自GTIntentService,作为SDK与APP桥梁服务,用来接收各种消息和命令回复 -->
+        <service android:name=".service.DemoIntentService" />
+        <service android:name=".service.UploadPictureService">
+            <intent-filter>
+                <action android:name="com.mingnong.changshaapp.addTask" />
+                <action android:name="com.mingnong.changshaapp.clear_db" />
+            </intent-filter>
+        </service>
+        <!-- 用户自定义服务名 -->
+        <service
+            android:name=".service.DemoPushService"
+            android:exported="true"
+            android:label="PushService"
+            android:process=":pushservice" />
+        <service android:name=".service.OfflineUploadService" />
+
+        <activity android:name=".activity.WuHaiHuaActivity" />
+        <activity android:name=".activity.WuHaiHuaAddActivity" />
+        <activity android:name=".activity.ShowSdActivity" />
+        <activity android:name=".activity.ProductASearchActivity" />
+        <activity android:name=".activity.ProductBSearchActivity" />
+        <activity android:name=".activity.AnimalASearchActivity" />
+        <activity android:name=".activity.AnimalBSearchActivity" />
+        <activity android:name=".activity.QueryDetilWHHActivity" />
+        <activity android:name=".activity.QueryListWHHActivity" />
+        <activity android:name=".activity.TuZaiJianYiActivity" />
+        <activity android:name=".activity.ChanDiJianYiChaXunActivity" />
+        <activity android:name=".activity.TuZaiJianYiChaXunActivity" />
+        <activity android:name=".activity.ChanDiJianYIXiangQActivity" />
+        <activity android:name=".activity.TuZaiJianYiXingQActivity"></activity>
+        <activity android:name=".activity.QueryListChangDiActivity"></activity>
+        <activity android:name=".activity.QueryDetilChangDiActivity"></activity>
+    </application>
+
+</manifest>

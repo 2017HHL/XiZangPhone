@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bottom_menu.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bottom_menu.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\huanghaoling\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\huanghaoling\\XiZangPhone\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bottom_menu.xml",
+        "source": "E:\\XiZangPhone\\app\\src\\main\\res\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\mydemo\\SVNxiangmu\\XiZangPhone\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

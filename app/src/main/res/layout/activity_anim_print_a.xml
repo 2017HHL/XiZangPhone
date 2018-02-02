@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_anim_print_a"
+    android:fitsSystemWindows="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/common_title" />
+
+    <ScrollView
+        android:background="#eae6e6"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:minWidth="100dp"
+                    android:text="检疫证编号:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <EditText
+                    android:id="@+id/et_no"
+                    android:hint="必填"
+                    android:textColorHint="#FF6666"
+                    android:text="43"
+                    android:inputType="number"
+                    android:maxLength="10"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/s1"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_tv_size" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:minWidth="100dp"
+                    android:text="货  主:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <TextView
+                    android:id="@+id/tv_user_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/s1"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_tv_size" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:minWidth="100dp"
+                    android:text="联系电话:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <TextView
+                    android:id="@+id/tv_user_phone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/s1"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_tv_size" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:minWidth="100dp"
+                    android:text="动物种类:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <TextView
+                    android:id="@+id/tv_anim_type"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/s1"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_tv_size" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:minWidth="100dp"
+                    android:text="用途:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <TextView
+                    android:id="@+id/tv_useage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/s1"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_tv_size" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:minWidth="100dp"
+                    android:text="数量及单位:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <TextView
+                    android:id="@+id/tv_number"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/s1"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_tv_size" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:minWidth="100dp"
+                    android:text="启运地点:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <TextView
+                    android:id="@+id/tv_start_place"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/s1"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_tv_size" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:minWidth="100dp"
+                    android:text="启运地点类别:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+
+                <TextView
+                    android:id="@+id/tv_start_place_type"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/s1"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_tv_size" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/et_start_place_xiang"
+                    android:layout_width="0dp"
+                    android:layout_height="30dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/s1"
+                    android:focusable="false"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_et_size" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="乡(镇)"
+                    android:textColor="#3399cc"
+                    android:textSize="15dp" />
+
+                <EditText
+                    android:id="@+id/et_start_place_tuzaichang"
+                    android:layout_width="0dp"
+                    android:layout_height="30dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/s1"
+                    android:focusable="false"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_et_size" />
+
+                <TextView
+                    android:id="@+id/tv_start_place_country"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="村"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:minWidth="100dp"
+                    android:text="到达地点:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <TextView
+                    android:id="@+id/tv_end_place"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/s1"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_tv_size" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:minWidth="100dp"
+                    android:text="到达地点类别:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+
+                <TextView
+                    android:id="@+id/tv_end_place_type"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/s1"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_tv_size" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/et_end_place_xiang"
+                    android:layout_width="0dp"
+                    android:layout_height="30dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/s1"
+                    android:focusable="false"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_et_size" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="乡(镇)"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <EditText
+                    android:id="@+id/et_end_place_tuzaichang"
+                    android:layout_width="0dp"
+                    android:layout_height="30dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/s1"
+                    android:focusable="false"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_et_size" />
+
+                <TextView
+                    android:id="@+id/tv_end_place_country"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="村"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:minWidth="100dp"
+                    android:text="承 运 人:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <EditText
+                    android:id="@+id/et_carrier_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/s1"
+                    android:hint="必填"
+                    android:textColorHint="#FF6666"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_tv_size" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:minWidth="100dp"
+                    android:text="联系电话:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <EditText
+                    android:id="@+id/et_carrier_phone"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:background="@drawable/s1"
+                    android:gravity="center"
+                    android:hint="必填"
+                    android:textColorHint="#FF6666"
+                    android:textSize="@dimen/common_tv_size" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:minWidth="100dp"
+                    android:text="运输方式:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <TextView
+                    android:id="@+id/tv_method"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:background="@drawable/s1"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_tv_size" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:minWidth="100dp"
+                    android:text="运载工具号"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <EditText
+                    android:id="@+id/et_util_number"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@drawable/s1"
+                    android:hint="必填"
+                    android:textColorHint="#FF6666"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_tv_size" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:minWidth="100dp"
+                    android:text="装载前经："
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <EditText
+                    android:id="@+id/et_sterilize"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/s1"
+                    android:hint="必填"
+                    android:textColorHint="#FF6666"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_tv_size" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="消毒"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="有效到达日:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <Spinner
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:id="@+id/spinner_effect_arrive_time"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:minWidth="100dp"
+                    android:text="签发日期:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <TextView
+                    android:id="@+id/tv_qianfa_time"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/s1"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_tv_size" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/lin_erbiao"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:minWidth="100dp"
+                    android:text="牲畜耳标号:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <EditText
+                    android:id="@+id/et_erbiao"
+                    android:padding="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/s1"
+                    android:gravity="center"
+                    android:minHeight="100dp"
+                    android:textSize="@dimen/common_tv_size" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="官方兽医签字:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+                <TextView
+                    android:id="@+id/tv_guanfang_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/s1"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_tv_size" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="动物卫生监督所电话:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+                <TextView
+                    android:id="@+id/tv_guanfang_phone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/s1"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_tv_size" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:text="备  注 :"
+                    android:layout_gravity="center"
+                    android:textColor="#3399cc" />
+
+                <EditText
+                    android:id="@+id/et_remark"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:hint="选填"
+                    android:textColorHint="#FF6666"
+                    android:background="@drawable/s1"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:textSize="@dimen/common_et_size" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingBottom="5dp"
+                android:layout_marginTop="10dp">
+
+                <Button
+                    android:id="@+id/bt_print"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/bt_bg_blue"
+                    android:text="打印"
+                    android:textColor="#ffffff"
+                    android:textSize="@dimen/common_et_size" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

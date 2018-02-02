@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginRight="10dp"
+            android:text="检疫地点:"
+            android:textColor="#3399cc"
+            android:textSize="@dimen/common_tv_size_title" />
+
+        <EditText
+            android:id="@+id/et_jianyi_place"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:hint="请输入检疫地点"
+            android:textColorHint="#FF6666"
+            android:textSize="@dimen/common_et_size" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginRight="10dp"
+            android:text="检疫日期:"
+            android:textColor="#3399cc"
+
+            android:textSize="@dimen/common_tv_size_title" />
+
+        <EditText
+            android:id="@+id/et_jianyi_time"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:focusable="false"
+            android:gravity="center"
+            android:textSize="@dimen/common_et_size" />
+
+        <Button
+            android:id="@+id/bt_jianyi_time"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:background="#0099ff"
+            android:tag="1"
+            android:text="选择日期"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/common_tv_size" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginRight="10dp"
+            android:text="处理日期:"
+            android:textColor="#3399cc"
+            android:textSize="@dimen/common_tv_size_title" />
+
+        <EditText
+            android:id="@+id/et_process_time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:focusable="false"
+            android:gravity="center"
+            android:textSize="@dimen/common_et_size" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginRight="10dp"
+            android:text="检疫结果:"
+            android:textColor="#3399cc"
+            android:textSize="@dimen/common_tv_size_title" />
+
+        <Spinner
+            android:id="@+id/spinner_jianyi_result"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textSize="@dimen/common_et_size" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lin_jiance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="瘦肉精检测情况"
+            android:textColor="#3399cc"
+            android:textSize="@dimen/common_tv_size_title" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginRight="10dp"
+                android:text="头数:"
+                android:textColor="#3399cc"
+                android:textSize="@dimen/common_tv_size_title" />
+
+            <EditText
+                android:id="@+id/et_toushu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:inputType="number"
+                android:maxLength="8"
+                android:paddingLeft="10dp"
+                android:text="0"
+                android:textSize="@dimen/common_tv_size" />
+        </LinearLayout>
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="盐酸克伦特罗:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:gravity="center"
+                    android:text="阴性数:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <EditText
+                    android:id="@+id/et_item1_1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:inputType="number"
+                    android:maxLength="8"
+                    android:text="0"
+                    android:textSize="@dimen/common_tv_size" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:gravity="center"
+                    android:text="阳性数:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <EditText
+                    android:id="@+id/et_item1_2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:inputType="number"
+                    android:maxLength="8"
+                    android:text="0"
+                    android:textSize="@dimen/common_tv_size" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center"
+                    android:text="莱克多巴胺:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:gravity="center"
+                    android:text="阴性数:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <EditText
+                    android:id="@+id/et_item2_1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:inputType="number"
+                    android:maxLength="8"
+                    android:text="0"
+                    android:textSize="@dimen/common_tv_size" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:gravity="center"
+                    android:text="阳性数:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <EditText
+                    android:id="@+id/et_item2_2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:inputType="number"
+                    android:maxLength="8"
+                    android:text="0"
+                    android:textSize="@dimen/common_tv_size" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center"
+                    android:text="沙丁胺醇:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:gravity="center"
+                    android:text="阴性数:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <EditText
+                    android:id="@+id/et_item3_1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:inputType="number"
+                    android:maxLength="8"
+                    android:text="0"
+                    android:textSize="@dimen/common_tv_size" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:gravity="center"
+                    android:text="阳性数:"
+                    android:textColor="#3399cc"
+                    android:textSize="@dimen/common_tv_size_title" />
+
+                <EditText
+                    android:id="@+id/et_item3_2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:inputType="number"
+                    android:maxLength="8"
+                    android:text="0"
+                    android:textSize="@dimen/common_tv_size" />
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+</LinearLayout>
